@@ -1,0 +1,6 @@
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\bin\Debug\Car Parking Calculator.exe.config
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\obj\Debug\Car Parking Calculator.csprojResolveAssemblyReference.cache
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\bin\Debug\Car Parking Calculator.exe
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\bin\Debug\Car Parking Calculator.pdb
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\obj\Debug\Car Parking Calculator.exe
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\Car Parking Calculator\Car Parking Calculator\obj\Debug\Car Parking Calculator.pdb
